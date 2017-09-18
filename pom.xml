@@ -1,18 +1,18 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.devialab</groupId>
-    <artifactId>jackson-jsonSchema-maven</artifactId>
+    <artifactId>jackson-json-schema-maven</artifactId>
     <packaging>maven-plugin</packaging>
     <version>0.0.1-SNAPSHOT</version>
     <name>jackson-jsonSchema-maven</name>
     <description>Maven plugin to generate a JsonSchema context automatically from your java classes.</description>
-    <url>https://github.com/devialab/jackson-jsonSchema-maven</url>
+    <url>https://github.com/devialab/jackson-json-schema-maven</url>
 
 
     <scm>
-        <connection>scm:git:git@github.com:devialab/jackson-jsonSchema-maven.git</connection>
-        <developerConnection>scm:git:git@github.com:devialab/jackson-jsonSchema-maven.git</developerConnection>
-        <url>scm:git:git@github.com:devialab/jackson-jsonSchema-maven.git</url>
+        <connection>scm:git:git@github.com:devialab/jackson-json-schema-maven.git</connection>
+        <developerConnection>scm:git:git@github.com:devialab/jackson-json-schema-maven.git</developerConnection>
+        <url>scm:git:git@github.com:devialab/jackson-json-schema-maven.git</url>
         <tag>HEAD</tag>
     </scm>
 
