@@ -1,4 +1,4 @@
-# jackson-jsonSchema-maven
+# jackson-json-schema-maven
 Maven plugin for jackson-jsonSchema
 
 ## Usage
@@ -8,7 +8,7 @@ Maven plugin for jackson-jsonSchema
     <plugins>
         <plugin>
             <groupId>com.devialab</groupId>
-            <artifactId>jackson-jsonSchema-maven</artifactId>
+            <artifactId>jackson-json-schema-maven</artifactId>
             <version>0.0.1-SNAPSHOT</version>
             <configuration>
                 <outputDirectory>${project.build.outputDirectory}</outputDirectory>

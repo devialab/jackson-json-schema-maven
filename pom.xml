@@ -135,11 +135,11 @@
 
     <ciManagement>
         <system>Travis CI</system>
-        <url>https://travis-ci.org/devialab/jackson-jsonSchema-maven</url>
+        <url>https://travis-ci.org/devialab/jackson-json-schema-maven</url>
     </ciManagement>
 
     <issueManagement>
-        <url>https://github.com/devialab/jackson-jsonSchema-maven/issues</url>
+        <url>https://github.com/devialab/jackson-json-schema-maven/issues</url>
         <system>GitHub Issues</system>
     </issueManagement>
 
